@@ -1,10 +1,10 @@
 {
   "name": "bismah-oop-project",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This is a simple console application using Object Oriented Programming.",
   "main": "main.js",
   "type": "module",
-  "bin": "./OOP-Project/main.js",
+  "bin": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
